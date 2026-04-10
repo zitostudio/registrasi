@@ -1,0 +1,5 @@
+{
+  "name": "zito studio",
+  "description": "A custom form application that syncs data to Google Forms and sends WhatsApp notifications via Fonnte.",
+  "requestFramePermissions": []
+}
